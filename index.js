@@ -3,7 +3,7 @@ var name="Larry"
 var holiday="Christmas"
 var days="10"
 
-function happyHolidays(){
+function happyHolidays(string){
   console.log("Happy holidays!")
 }
 function happyHolidaysTo(name){
