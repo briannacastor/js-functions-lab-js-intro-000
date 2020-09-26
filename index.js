@@ -3,13 +3,13 @@ var name="Larry"
 var holiday="Christmas"
 var days="10"
 
-function happyHolidays(string){
+function happyHolidays(){
   return 'Happy Holidays!'
 }
-function happyHolidaysTo(name){
+function happyHolidaysTo(){
   console.log ("Happy holidays"+ $name)
 }
-function happyHolidaysTo(name, holiday){
+function happyHolidaysTo(){
   return `Happy ${holiday} to ${name}`
 }
 function holidayCountdown(holiday, days){
