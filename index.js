@@ -4,7 +4,7 @@ var holiday="Christmas"
 var days="10"
 
 function happyHolidays(){
-  return 'Happy Holidays!'
+  console.log("Happy Holidays!")
 }
 function happyHolidaysTo(){
   return `Happy holiday,${name}!`
